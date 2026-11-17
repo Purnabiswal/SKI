@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_clear" android:title="Clear current file"/>
+    <item android:id="@+id/menu_paste" android:title="Paste to current file"/>
+    <item android:id="@+id/menu_add_file" android:title="Add file"/>
+    <item android:id="@+id/menu_save" android:title="Save project"/>
+    <item android:id="@+id/menu_switch_project" android:title="Switch project"/>
+    <item android:id="@+id/menu_external" android:title="Run in external browser"/>
+</menu>
